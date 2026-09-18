@@ -1,4 +1,4 @@
-# Narrate for Obsidian
+# Narrate
 
 Audiobook-style TTS for your notes.
 
